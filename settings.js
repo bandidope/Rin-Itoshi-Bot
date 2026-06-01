@@ -15,17 +15,11 @@ global.botNumber = ''
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-  ['51919199620', '🜲 Propietario 🜲', true],
-  ['51969214380', 'shadow', true],
-  ['59898719147', 'feli', true],
-  ['51934053286', ':v', true ],
+  ['51936994155', '🜲 Propietario 🜲', true],
   
 // <-- Número @lid -->
 
-  ['80754461647013', 'Propietario', true],
-  ['193196806148194', 'shadow', true],
-  ['119069730668723', 'feli', true ],
-  ['102680420733070', ':v', true ]
+  ['80754461647013', 'Propietario', true]
 ];  
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
@@ -39,23 +33,23 @@ global.prems = ['51919199620', '51934053286']
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = '✦⃟⚡ Rin•Itoshi•Bot•MD ⚡⃟✦'
-global.namebot = '⚽⸸ Rin•Itoshi•MD ⸸⚽'
+global.nameqr = '✦⃟⚡ McQueen Bot ⚡⃟✦'
+global.namebot = '⚽⸸ McQueen ⸸⚽'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.shadowJadibts = true
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.packname = '🏆 ⌬ 𝑹𝒊𝒏 𝑰𝒕𝒐𝒔𝒉𝒊 𝑩𝒐𝒕 𝑴𝑫 ⌬ ⚽'
-global.botname = '☘️ 𝑹𝑰𝑵 𝑰𝑻𝑶𝑺𝑯𝑰 ⚽'
-global.wm = '◈𝐑𝐢𝐧 𝐈𝐭𝐨𝐬𝐡𝐢 𝐁𝐨𝐭◈'
-global.author = '⩇⃟🔋 𝑴𝒂𝒅𝒆 𝒃𝒚 𝑺𝒉𝒂𝒅𝒐𝒘𝒄𝒐𝒓𝒆 ⩇⃟⚡'
-global.dev = '☘️ ミ💨 》Tʜᴇ Sʜᴀᴅᴏᴡ`ᴄᴏʀᴇ《 💥ミ 🌀'
-global.bot = '𝑹𝒊𝒏 𝑰𝒕𝒐𝒔𝒉𝒊 𝑩𝒐𝒕'
-global.club = '🌱 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 Sʜᴀᴅᴏᴡ•Core 𝖢𝗅𝗎𝖻 ⚡'
-global.textbot = '𝚁𝙸𝙽 𝙸𝚃𝙾𝚂𝙷𝙸 𝙱𝙾𝚃 ✦ 𝕊ℍ𝔸𝔻𝕆𝕎•ℂ𝕆ℝ𝔼'
-global.etiqueta = '@sʜᴀᴅᴏᴡ°ᴄᴏʀᴇ'
+global.packname = '🏆 ⌬ Powered Team Nightwish ⌬ ⚽'
+global.botname = '☘️ McQueen Bot ⚽'
+global.wm = '◈ Whoiss Yallico ◈'
+global.author = '⩇⃟🔋 TEAM NIGHTWISH ⩇⃟⚡'
+global.dev = '☘️ ミ💨 》McQueen Bot《 💥ミ 🌀'
+global.bot = 'McQueen Bot'
+global.club = '🌱 Powered Team Nightwish ⚡'
+global.textbot = 'McQueen Bot ✦ Team Nightwish'
+global.etiqueta = '@whoiss.yallico'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
